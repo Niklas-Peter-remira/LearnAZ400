@@ -2,8 +2,8 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+We follow semantic versioning. Only the latest minor releases of each major version are supported with security updates. Older versions may receive critical patches at our discretion, but we recommend upgrading to a supported version for full security coverage.
+The table below lists which versions are currently supported.
 
 | Version | Supported          |
 | ------- | ------------------ |
