@@ -14,8 +14,8 @@ currently being supported with security updates.
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
+To report a vulnerability, please email our security team at security@example.com.
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+We will acknowledge receipt of your report within 2 business days.
+You can expect updates on the status of your report at least every 5 business days.
+If the vulnerability is accepted, we will work with you to coordinate a fix and public disclosure. If declined, we will provide a rationale for our decision.
